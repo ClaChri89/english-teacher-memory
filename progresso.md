@@ -40,5 +40,14 @@
 | timing | the correct moment to do something | 2026-06-17 | No |
 | coordination | ability to move different parts together effectively | 2026-06-17 | No |
 
+## Log valutazioni di fine sessione
+
+### Sessione [data]
+- Argomento trattato: [nome argomento]
+- Valutazione: Mastered / In progress / Needs more practice
+- Motivazione: [breve nota sul perché di questa valutazione]
+- Errori ricorrenti osservati in questa sessione: [...]
+- Nuovo vocabolario introdotto: [...]
+
 ## Session Notes
 - 2026-06-17: Discussed swimming, team training, butterfly stroke, open-water swimming in Camogli, Idroscalo, and Lake Endine. Practiced Present Simple and Present Continuous. Good fluency and confidence. Focus next time on more natural verb combinations and future plans.
