@@ -33,21 +33,24 @@
 |------------|---------------------|------------|----------------|-----------------|
 | Verb choice / natural expression | "I made a competition" / "I made a long swim" | "I compete in competitions" / "I do a long swim" | 2 | 2026-06-17 |
 | Adjective choice | "It's very funny" | "It's very fun" | 1 | 2026-06-17 |
+| Verb collocations | "make the interface" / "make a point of the project" | "build the interface" / "review the project status" | 1 | 2026-06-24 |
 
 ## Vocabulary to Review
 | Word/Expression | Meaning | Date added | Reviewed? |
 |-----------------|---------|------------|-----------|
 | timing | the correct moment to do something | 2026-06-17 | No |
 | coordination | ability to move different parts together effectively | 2026-06-17 | No |
+| relieve stress | reduce or release stress | 2026-06-24 | No |
 
 ## Log valutazioni di fine sessione
 
-### Sessione [data]
-- Argomento trattato: [nome argomento]
-- Valutazione: Mastered / In progress / Needs more practice
-- Motivazione: [breve nota sul perché di questa valutazione]
-- Errori ricorrenti osservati in questa sessione: [...]
-- Nuovo vocabolario introdotto: [...]
+### Sessione 2026-06-24
+- Argomento trattato: Present Simple vs Present Continuous through daily routine, work, swimming, and future plans
+- Valutazione: In progress
+- Motivazione: Good fluency and confidence. Present Simple is generally used correctly, but natural verb collocations still need practice.
+- Errori ricorrenti osservati in questa sessione: verb collocations and natural expressions
+- Nuovo vocabolario introdotto: relieve stress
 
 ## Session Notes
 - 2026-06-17: Discussed swimming, team training, butterfly stroke, open-water swimming in Camogli, Idroscalo, and Lake Endine. Practiced Present Simple and Present Continuous. Good fluency and confidence. Focus next time on more natural verb combinations and future plans.
+- 2026-06-24: Discussed SAP integration work, Monday workload, stress relief through swimming, open-water goals including Gibraltar, and daily routine. Good conversational flow. Continue practicing natural work-related expressions and future plans.
